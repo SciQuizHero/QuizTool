@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  Quiz.swift
 //  
 //
 //  Created by nikola.stojanovic.ext on 1.6.23..
